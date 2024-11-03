@@ -29,5 +29,5 @@ npm-debug.log.*
 *.scss.d.ts
 
 
-package-mac.sh
+package-mac-signed.sh
 certificate.p12

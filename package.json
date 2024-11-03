@@ -187,7 +187,7 @@
       "package.json"
     ],
     "mac": {
-      "identity":"Chetan Jain (GP9Y9NDS7U)",
+      "identity":"FirstName LastName (MY_TEAM_ID)",
       "category": "public.app-category.developer-tools",
       "target": [
         {
@@ -204,7 +204,7 @@
       "entitlementsInherit": "assets/entitlements.mac.plist",
       "gatekeeperAssess": true,
       "notarize": {
-        "teamId": "GP9Y9NDS7U"
+        "teamId": "MY_TEAM_ID"
       }
     },
     "dmg": {
